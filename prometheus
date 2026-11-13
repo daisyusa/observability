@@ -1,0 +1,22 @@
+# Tutorial
+
+https://testautomationu.applitools.com/observability-for-test-automation/
+
+Most experienced engineers agree that their key to success is in understanding, debugging and extending existing code - not solely in writing new code.
+
+Realizing the impact that existing code has on our effectiveness has led to a heightened focus on how engineers can support their future self or future teammates in a faster entry to understanding and being effective in their codebases.
+
+One of the biggest ways engineers can provide future operability is to find ways to expose information about how it is their current systems are operating.
+
+The data that is collected can be described as telemetry and can be formatted, stored, and queried in a number of different ways.
+
+Each format lends itself to a slightly different style of graph and display, therefore providing a unique view into how the system is behaving.
+
+Beyond just querying and graphing, this telemetry is also the basis for automated alerting and remediation, which can result in less downtime when issues do arise.
+
+So what is our goal during this course?
+
+This course aims to provide you with the tools to explore a number of different types of telemetry in a fully local, fully isolated and safe way.
+
+Specifically, we will be enhancing a Java automation test suite to run via a continuous integration pipeline and expose metrics, logs and traces and events as we go.
+
